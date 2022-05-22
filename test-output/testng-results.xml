@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-22T14:54:50 IST" name="Suite" finished-at="2022-05-22T14:55:34 IST" duration-ms="43550">
+    <groups>
+    </groups>
+    <test started-at="2022-05-22T14:54:50 IST" name="TestSuite" finished-at="2022-05-22T14:55:34 IST" duration-ms="43550">
+      <class name="com.movies.qa.testcase.MovieDataTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.movies.qa.testcase.MovieDataTest@14008db3]" started-at="2022-05-22T14:54:50 IST" name="setUp" finished-at="2022-05-22T14:54:53 IST" duration-ms="2923" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_WhenComparedTheCountryOfTheMovie_OnBothWebsites_ShouldBeSame()[pri:1, instance:com.movies.qa.testcase.MovieDataTest@14008db3]" started-at="2022-05-22T14:54:53 IST" name="test_WhenComparedTheCountryOfTheMovie_OnBothWebsites_ShouldBeSame" description="Verifying if the County of Origin is Same on both Websites" finished-at="2022-05-22T14:55:11 IST" duration-ms="17743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_WhenComparedTheCountryOfTheMovie_OnBothWebsites_ShouldBeSame -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.movies.qa.testcase.MovieDataTest@14008db3]" started-at="2022-05-22T14:55:11 IST" name="tearDown" finished-at="2022-05-22T14:55:11 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.movies.qa.testcase.MovieDataTest@14008db3]" started-at="2022-05-22T14:55:11 IST" name="setUp" finished-at="2022-05-22T14:55:13 IST" duration-ms="1624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_WhenComparedTheReleaseDateOfTheMovie_OnBothWebsites_ShouldBeSame()[pri:2, instance:com.movies.qa.testcase.MovieDataTest@14008db3]" started-at="2022-05-22T14:55:13 IST" name="test_WhenComparedTheReleaseDateOfTheMovie_OnBothWebsites_ShouldBeSame" description="Verifying if the Date Of release in India is same on both Websites" finished-at="2022-05-22T14:55:34 IST" duration-ms="20570" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_WhenComparedTheReleaseDateOfTheMovie_OnBothWebsites_ShouldBeSame -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.movies.qa.testcase.MovieDataTest@14008db3]" started-at="2022-05-22T14:55:34 IST" name="tearDown" finished-at="2022-05-22T14:55:34 IST" duration-ms="240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.movies.qa.testcase.MovieDataTest -->
+    </test> <!-- TestSuite -->
+  </suite> <!-- Suite -->
+</testng-results>
